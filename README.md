@@ -1,4 +1,4 @@
-Spring Boot with Maven and Docker - [![Build Status](https://travis-ci.org/adaofeliz/spring-boot-web-mvn.png)](https://travis-ci.org/adaofeliz/spring-boot-web-mvn)
+Spring Boot with Maven and Docker - [![Build Status](https://travis-ci.org/adaofeliz/spring-boot-maven-docker.png)](https://travis-ci.org/adaofeliz/spring-boot-maven-docker)
 ========================
 Part of the blog post: http://blog.adaofeliz.com/2014/11/21/first-look-spring-boot-and-docker
 
